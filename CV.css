@@ -1,0 +1,140 @@
+body {
+    background-color:paleturquoise
+}
+
+#navegador {
+    list-style-type: none;
+    text-align: center;
+}
+
+#navegador li {
+    display: inline;
+    text-align: center;
+    margin: 0px 10px 0px 0px;
+}
+
+#navegador li a {
+    padding: 2px 7px 2px 7px;
+    color: #666;
+    background-color: #eeeeee;
+    border: 1px solid #ccc;
+    text-decoration: none;
+}
+
+#navegador li a:hover{
+    background-color: #333333;
+    color: #ffffff;
+}
+
+#Perfil {
+    background: lemonchiffon;
+    width: 13%;
+    height: 25%;
+    margin: 0% 30% 0% 40%;
+    border: 5px solid rosybrown;
+    padding: 1%;
+    float: left;
+}
+
+#Titulo {
+    font-style: oblique;
+    font-size: 35px;
+    width: 40%;
+    margin: -30% 0% 0% 50%;
+    color: purple;
+}
+
+#Nombre {
+    width: 100%;
+    font-style: oblique;
+    font-size: 50px;
+    margin: 5% -15% 5% 20%;
+    color: grey;
+}
+
+#Persona {
+    background: aquamarine;
+    width: 40%;
+    height: 40%;
+    margin: 5% 15% 5% 15%;
+    border: 10px solid royalblue;
+    padding: 15% 25% 5% 5%;
+    float: left;
+}
+
+#Form {
+    background: aquamarine;
+    width: 40%;
+    height: 25%;
+    margin: 5% 15% 5% 15%;
+    border: 10px solid royalblue;
+    padding: 15% 25% 10% 5%;
+    float: left;
+}
+
+#Exp {
+    background: aquamarine;
+    width: 40%;
+    height: 10%;
+    margin: 5% 15% 5% 15%;
+    border: 10px solid royalblue;
+    padding: 15% 25% 0% 5%;
+    float: left;
+}
+
+#Port {
+    background: aquamarine;
+    width: 40%;
+    height: 20%;
+    margin: 5% 15% 5% 15%;
+    border: 10px solid royalblue;
+    padding: 15% 25% 5% 5%;
+    float: left;
+    overflow: hidden;
+}
+
+#Port ul li {
+    float: left;
+}
+
+.DsP {
+    list-style: none;
+    font-style: arial;
+    font-size: 30px;
+    width: 100%;
+    margin: 1% 10% 2% 5%;
+    padding: 10%;
+    color: darkolivegreen;
+    float: left;
+    text-align: center;
+}
+
+.Pgeneral {
+    font-style: arial;
+    width: 500px;
+    font-size: 25px;
+    color: darkolivegreen;
+    margin: 5% 0% 0% 20%;
+    float: left;
+}
+
+p {
+    font-style: arial;
+    font-size: 25px;
+    color: darkolivegreen;
+    float: left;
+    text-align: center;
+}
+
+.Enp {
+    list-style: none;
+    margin: 0% 0% 0% -10%;
+    width: 170%;
+}
+
+h3{
+    color: saddlebrown;
+    margin: 30% 10% 3% 20%;
+    font-size: 30px;
+    width: 130%;
+}
